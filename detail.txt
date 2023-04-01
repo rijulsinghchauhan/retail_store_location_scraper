@@ -1,0 +1,3 @@
+I extract the flower shop detail from JustDial Site
+I try to do it with Scrapy but Every time it was showing 403 error
+So I did it with Selenium
